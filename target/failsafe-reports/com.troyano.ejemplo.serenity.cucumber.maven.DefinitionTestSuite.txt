@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.troyano.ejemplo.serenity.cucumber.maven.DefinitionTestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 54.659 sec - in com.troyano.ejemplo.serenity.cucumber.maven.DefinitionTestSuite

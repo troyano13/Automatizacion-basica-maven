@@ -1,0 +1,4 @@
+com\troyano\ejemplo\serenity\cucumber\maven\DefinitionTestSuite.class
+com\troyano\ejemplo\serenity\cucumber\maven\steps\serenity\EndUserSteps.class
+com\troyano\ejemplo\serenity\cucumber\maven\pages\DictionaryPage.class
+com\troyano\ejemplo\serenity\cucumber\maven\steps\DefinitionSteps.class
